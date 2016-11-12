@@ -1,0 +1,10 @@
+bin
+build
+dist
+include
+lib
+*.pyc
+*.swp
+*.egg-info
+*.sqlite3
+*.bak
